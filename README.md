@@ -1,0 +1,1 @@
+This repository hosts the Dockerfile for tensorflow serving that allows one to pin the version of tensorflow serving prior to the build.
